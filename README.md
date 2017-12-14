@@ -9,16 +9,23 @@
 [Tutorial Python 2.7](https://docs.python.org/2.7/tutorial/index.html)
 
 ## IDE (Ambiente de Desenvolvimento Integrado)
-```
-PyCharm
-Atom
-VS Code
-Sublime Text
-Eclipse 'PyDev'
-VIM
-Emacs
-[Outros](https://wiki.python.org.br/IdesPython)
-```
+
+> PyCharm
+
+> Atom
+
+> VS Code
+
+> Sublime Text
+
+> Eclipse 'PyDev'
+
+> VIM
+
+> Emacs
+
+> [Outros](https://wiki.python.org.br/IdesPython)
+
 ## MySQL / PostgreSQL
 
 ```
