@@ -1,8 +1,8 @@
-#Turorial
+# Tutorial
 
--[Ambiente]()
--[Python]()
--[MySQL]()
--[Requests]()
--[Xpath]()
--[Regex]()
+- [Ambiente]()
+- [Python]()
+- [MySQL]()
+- [Requests]()
+- [Xpath]()
+- [Regex]()
