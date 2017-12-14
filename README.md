@@ -3,6 +3,14 @@
 [Nome do link](link)
 
 # Ambiente
+
+## Git
+Usamos o Git para o versionamento do projeto.
+
+```
+sudo apt-get install git
+```
+
 ## Python
 [Documentação Python](https://docs.python.org/2.7/)
 
@@ -10,21 +18,21 @@
 
 ## IDE (Ambiente de Desenvolvimento Integrado)
 
-> PyCharm
+* Atom
 
-> Atom
+* Eclipse 'PyDev'
 
-> VS Code
+* Emacs
 
-> Sublime Text
+* PyCharm
 
-> Eclipse 'PyDev'
+* Sublime Text
 
-> VIM
+* VS Code
 
-> Emacs
+* VIM
 
-> [Outros](https://wiki.python.org.br/IdesPython)
+* [Outros](https://wiki.python.org.br/IdesPython)
 
 ## MySQL / PostgreSQL
 
@@ -41,4 +49,22 @@ alter user postgres with password 'postgres';
 ```
 
 # Web scraping
+
+
+## Requests
+
+
+[Documentação Requests](http://docs.python-requests.org/en/master/)
+
+```
+sudo pip install requests
+```
+
+[Exemplo Rápido](http://docs.python-requests.org/en/latest/user/quickstart/)
+
+## Xpath
+[Introdulção Xpath](https://www.w3schools.com/xml/xpath_intro.asp)
+
+## Expressão Regular
+[Documentação Expressão Regular re/regex](https://docs.python.org/2/library/re.html)
 
