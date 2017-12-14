@@ -4,8 +4,8 @@
 
 # Ambiente
 ## Python
-[Documentação Python] (https://docs.python.org/2.7/)
-[Tutorial Python 2.7] (https://docs.python.org/2.7/tutorial/index.html)
+[Documentação Python](https://docs.python.org/2.7/)
+[Tutorial Python 2.7](https://docs.python.org/2.7/tutorial/index.html)
 
 ## MySQL / PostgreSQL
 
